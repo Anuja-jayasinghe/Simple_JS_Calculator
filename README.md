@@ -5,7 +5,7 @@ A responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 ## 🔢 Features
 
 - Basic arithmetic operations (+, -, *, /)
-- Responsive layout centered on screen
+- Responsive layout centred on screen
 - Button hover and click effects
 - Error handling for invalid calculations
 
@@ -26,4 +26,4 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple-html-css-js-calculator.git
+   git clone https://github.com/Anuja-jayasinghe/Simple_JS_Calculator.git
