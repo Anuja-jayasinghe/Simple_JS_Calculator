@@ -18,8 +18,8 @@ A responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 ## 🖼️ Preview
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="assets/preview-dark.png" alt="Dark Mode Preview" width="45%">
-  <img src="assets/preview-light.png" alt="Light Mode Preview" width="45%">
+  <img src="previews/preview-dark.png" alt="Dark Mode Preview" width="45%">
+  <img src="previews/preview-light.png" alt="Light Mode Preview" width="45%">
 </div>
 
 
