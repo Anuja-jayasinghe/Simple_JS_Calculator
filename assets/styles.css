@@ -38,7 +38,20 @@ body {
     max-width: 350px;
     overflow: hidden;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+
+:root[data-theme="dark"] #calculator {
     border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1),
+                0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+:root[data-theme="light"] #calculator {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1),
+                0 4px 15px rgba(0, 0, 0, 0.1);
 }
 
 #display {
