@@ -4,8 +4,10 @@ A responsive, stylish calculator built using **HTML**, **CSS**, and **JavaScript
 
 ## 🔗 Live Demo
 
-🌐 [Check it out here!](https://simple-js-cal.vercel.app/)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue?style=for-the-badge)](https://simple-js-cal.vercel.app/)
+[![Try it Live](https://img.shields.io/badge/Try_it_Live-simple--js--cal-orange?style=flat-square)](https://simple-js-cal.vercel.app/)
+
+    
+
 
 ---
 
