@@ -17,7 +17,11 @@ A responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🖼️ Preview
 
-![Calculator Screenshot](assets/preview.jpg) 
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="assets/preview-dark.png" alt="Dark Mode Preview" width="45%">
+  <img src="assets/preview-light.png" alt="Light Mode Preview" width="45%">
+</div>
+
 
 ## 🚀 Getting Started
 
