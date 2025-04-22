@@ -6,6 +6,7 @@
     --operator-color: #FF9F0A;
     --button-text: #FFFFFF;
     --top-button-bg: #2A2A2A;
+    --utility-btn-text: #ffffff; /* Default for dark theme */
 }
 
 :root[data-theme="light"] {
@@ -16,6 +17,7 @@
     --operator-color: #FF9F0A;
     --button-text: #000000;
     --top-button-bg: #e0e0e0;
+    --utility-btn-text: #000000; /* For light theme */
 }
 
 body {
@@ -33,7 +35,7 @@ body {
 #calculator {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background-color: var(--calculator-bg);
-    border-radius: 8px;
+    border-radius: 15px;
     width: 100%;
     max-width: 350px;
     overflow: hidden;
@@ -102,7 +104,7 @@ button:active {
 
 .utility-btn {
     background-color: var(--top-button-bg);
-    color: #000000;
+    color: var(--utility-btn-text);
 }
 
 /* Zero button spans two columns */
